@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue May 08 00:22:48 KST 2018
+#Tue May 08 00:36:35 KST 2018
 25.file=C\:\\demos\\js-bluetooth\\app\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-port-ldpi-v4\\screen.png
 25.base=C\:\\demos\\js-bluetooth\\app\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
 22.set=ASSET
